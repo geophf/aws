@@ -89,7 +89,7 @@ Answer: It wasn’t invented at the time, so ...
 
 ## POP QUIZ!
 
-![Pop goes the quizzer)[imgs/11-Microservices-pop.png)
+![Pop goes the quizzer](imgs/11-Microservices-pop.png)
 
 ## LET'S RIDE!
 
