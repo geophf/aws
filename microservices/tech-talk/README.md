@@ -29,4 +29,68 @@
 
 ## Example Kinds of Microservices
 
+So, whazza Microservice thingie?  … here’re some we used...
+
+
 ![kinds](imgs/04-Microservices-eg.png)
+
+## FYRE!
+
+![Boom](imgs/05-Microservices-on-fire.png)
+
+## API Gateway
+
+* Prototyping Web apps
+* PHP without the PHP
+* Caching
+* Access control (IAM)
+
+![API Gateway](imgs/06-Microservices-API-gateway.png)
+
+## SNS (Simple Notification Service)
+
+### You want a Publish/Subscribe architecture, READY MADE?
+
+* Super, super lightweight
+* Super, super low maintenance
+* Super, super easy setup
+* Fire-and-forget notifications
+
+Alternatively, if you love MQ Series or Rabbit MQ: 
+
+SQS … with all the opposite ‘advantages.’
+
+![SNS](imgs/07-Microservices-sns.png)
+
+## Lambda, Lambda, Lambda
+
+### Lambda Lambda Lambda (revenge o’ da nurdz)
+
+* Multilingual (Javer, Monty Pithon, JS, Go)
+* Lambda Layering
+* Stateless, so multiprocessing is automated
+* Fail-over? Schmail-over!
+
+![Lambda](imgs/08-Microservices-lambda.png)
+
+## What it looks like, e.g.: ETL
+
+Question: Why not AWS Glue?
+
+Answer: It wasn’t invented at the time, so ...
+
+![ETL](imgs/09-Microservices-etl.png)
+
+## What it looks like, e.g.: NER
+
+(Named Entity Recognizer)
+
+![NER](imgs/10-Microservices-ner.png)
+
+## POP QUIZ!
+
+![Pop goes the quizzer)[imgs/11-Microservices-pop.png)
+
+## LET'S RIDE!
+
+![Let's ride](imgs/12-Microservices-ride.png)
